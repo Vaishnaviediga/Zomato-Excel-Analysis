@@ -19,12 +19,6 @@ This project analyzes Zomato's delivery performance using an Excel dashboard wit
 
 ![Zomato Dashboard](https://github.com/Vaishnaviediga/Zomato-Excel-Analysis/tree/main)
 
----
-
-## 📄 Project Summary
-
-📑 [Click here to view the project summary document](file:///C:/Users/Summer%20Ediga/Downloads/Zomata_Excel_Dashboard_Summary.pdf)  
-
 
 ---
 
