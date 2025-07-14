@@ -1,6 +1,44 @@
-# 🍽️ Zomato-Excel-Analysis
+# 🍽️ Zomato Excel Analysis
 
 Excel-based dashboard analyzing Zomato delivery metrics using charts and KPIs.
 
+---
+
+## 📊 Overview
+
+This project analyzes Zomato's delivery performance using an Excel dashboard with visual KPIs such as:
+
+- City-wise average delivery rating
+- Popular cuisines
+- Average delivery time per cuisine
+- Overall satisfaction metrics
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Zomato Dashboard](zomato_dashboard.png)
+
+---
+
+## 📄 Project Summary
+
+📑 [Click here to view the project summary document](Zomato_Project_Summary.docx)  
+
+
+---
+
+## 📂 Files
+
+- 🧾 `Zomato_Dashboard.xlsx` (Hosted on OneDrive):  
+  🔗 [Download from OneDrive](https://1drv.ms/b/c/ae9840f81109f6e6/Ea4kAQ6h3XJJppw1ElwVd78BgEHPPfVR3Qlw4Q99JZL_3g?e=MZYkpx)
+- 🖼️ `zomato_dashboard.png` – Screenshot of dashboard
+- 📝 `Zomato_Project_Summary.docx` – Explanation and KPIs
+
+---
+
+⭐️ **This project demonstrates practical Excel dashboarding and analytics for the food delivery sector.**
+
+
 ## 📁 Project File
-🔗 [Click here to view/download the Zomato Excel Dashboard](https://1drv.ms/b/c/ae9840f81109f6e6/Ea4kAQ6h3XJJppw1ElwVd78Bp8UKTwjGEw_62CbacDFhBg?e=YJprpF)
+🔗 [Click here to view/download the Zomato Excel Dashboard](https://1drv.ms/b/c/ae9840f81109f6e6/Ea4kAQ6h3XJJppw1ElwVd78BgEHPPfVR3Qlw4Q99JZL_3g?e=MZYkpx)
