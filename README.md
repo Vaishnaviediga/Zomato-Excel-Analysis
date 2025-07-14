@@ -26,8 +26,9 @@ This project analyzes Zomato's delivery performance using an Excel dashboard wit
 
 - 🧾 `Zomato_Dashboard.xlsx` (Hosted on OneDrive):  
   🔗 [Download from OneDrive](https://1drv.ms/b/c/ae9840f81109f6e6/Ea4kAQ6h3XJJppw1ElwVd78BgEHPPfVR3Qlw4Q99JZL_3g?e=MZYkpx)
-- 🖼️ `zomato_dashboard.png` – Screenshot of dashboard
-- 📝 `Zomato_Project_Summary.docx` – Explanation and KPIs
+- 🖼️ <img width="638" height="721" alt="zomato_dashboard_screenshot" src="https://github.com/user-attachments/assets/6b4452af-66b8-4958-b881-2e02b1d3d56f" />
+ – Screenshot of dashboard
+- 📝 `Zomato_Project_Summary.docx` - (file:///C:/Users/Summer%20Ediga/Downloads/Zomata_Excel_Dashboard_Summary.pdf)-  Explanation and KPIs
 
 ---
 
